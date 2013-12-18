@@ -70,7 +70,7 @@
       (cyberpunk-green+4 "#bfebbf")
       (cyberpunk-cyan "#93e0e3")
       (cyberpunk-blue+1 "#94bff3")
-      (cyberpunk-blue "#0000ff")    ;; blue
+      (cyberpunk-blue "#004dff")    ;; blue
       (cyberpunk-blue-1 "#7b68ee")  ;; medium slate blue
       (cyberpunk-blue-2 "#6a5acd")  ;; slate blue
       (cyberpunk-blue-3 "#add8e6")  ;; light blue
